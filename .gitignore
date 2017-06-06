@@ -1,0 +1,15 @@
+messageboard/frontend/quickstart/.idea
+messageboard/backend/node_modules
+messageboard/frontend/quickstart/node_modules
+messageboard/frontend/quickstart/jspm_packages
+messageboard/frontend/quickstart/npm-debug.log
+messageboard/frontend/quickstart/debug.log
+messageboard/frontend/quickstart/src/**/*.js
+messageboard/frontend/quickstart/!src/systemjs.config.extras.js
+messageboard/frontend/quickstart/!src/systemjs.config.js
+messageboard/frontend/quickstart/!src/systemjs-angular-loader.js
+messageboard/frontend/quickstart/*.js.map
+messageboard/frontend/quickstart/e2e/**/*.js
+messageboard/frontend/quickstart/e2e/**/*.js.map
+messageboard/frontend/quickstart/_test-output
+messageboard/frontend/quickstart/_temp
